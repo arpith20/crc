@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Crc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Made by: Arpith (1PE10CS018)</string>
+    <string name="title_activity_main">Arpith_CRC</string>
+    <string name="intro">Enter divisor and divident. Press submit when finished. Also choose wether you want to encode or decode</string>
+
+</resources>
